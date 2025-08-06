@@ -29,4 +29,4 @@ Designing content with visual hierarchy in mind
 
 🚀 Live Preview
 👉 Click here to view Magazine Layout
-(Replace yourusername with your actual GitHub username)
+https://adeife25.github.io/magazine/
